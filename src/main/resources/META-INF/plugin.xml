@@ -28,6 +28,7 @@
 
     <extensions defaultExtensionNs="com.redhat.devtools.lsp4ij">
 
+
         <languageMapping language="XML"
                          serverId="myLanguageServerId"
                          documentMatcher="my.language.server.MyDocumentMatcher"/>
